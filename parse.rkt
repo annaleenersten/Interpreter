@@ -1,14 +1,5 @@
 #lang racket
 
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; CSCI 301, Winter 2024
-;;
-;; Lab #8
-;;
-;; Annalee Nersten
-;; 
-;;;;;;;;;;;;;;;;;;;;;;;;;;
-
 (provide parse)
 
 (define char-symbolic?
