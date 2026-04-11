@@ -1,12 +1,8 @@
 #lang racket
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; CSCI 301, Winter 2024
-;;
-;; Lab #7
 ;;
 ;; Annalee Nersten
-;; 
 ;;
 ;; This program evaluates expressions including if, cond, let, lambda,
 ;; and letrec statements  
