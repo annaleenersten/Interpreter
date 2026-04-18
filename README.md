@@ -36,7 +36,7 @@ The system is tested using RackUnit across multiple test suites that verify pars
 
 ---
 
-## 🧪 Running Tests
+## Running Tests
 
 Run tests using Racket:
 
