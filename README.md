@@ -1,4 +1,4 @@
-# Racket Interpreter Project
+# Racket Interpreter
 
 This project implements a small Lisp-style interpreter in Racket. It supports parsing and evaluating symbolic expressions, including arithmetic, conditionals, lexical scoping, higher-order functions, and recursion.
 
